@@ -1,2 +1,2 @@
-# nothing special
-just some testing stuff
+# Why are you here?
+This repo just stores a bunch of files for quick access.
