@@ -1,2 +1,2 @@
 # Why are you here?
-This repo just stores a bunch of files for quick access.
+This repo really just stores a bunch of files that you can't do anything with.
